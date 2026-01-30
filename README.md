@@ -1,6 +1,6 @@
 # Cittadella Wasteland: Kelly's Search for Nicole
 
-🎮 **[PLAY THE GAME HERE](https://YOUR-USERNAME.github.io/cittadella-wasteland/)** 🎮
+🎮 **[PLAY THE GAME HERE](https://playorbbeplayd.github.io/Cittadella-wasteland/)** 🎮
 
 A text-adventure game set in post-apocalyptic Italy. Search for your missing friend Nicole through the ruins of Cittadella.
 
